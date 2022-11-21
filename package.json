@@ -13,7 +13,7 @@
       "prettier --write ."
     ]
   },
-  "author": "sree harsha <omsreeharsha@gmail.com>",
+  "author": "ujas jagadamba <ujasjagadamba123@gmail.com>",
   "license": "ISC",
   "devDependencies": {
     "eslint": "^8.24.0",
